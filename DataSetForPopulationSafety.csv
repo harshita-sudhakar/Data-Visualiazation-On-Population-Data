@@ -1,0 +1,26 @@
+,Continent,Country,Year,Population,Yearly%Change,Migrants(net),FertilityRate,UrbanPopulation(%),%OfWorldPopulation,GlobalRank
+0,Asia,Jordan,1955,682968,7.25,24619,7.38,43.2,0.02,144
+1,Asia,Jordan,1960,933102,6.44,23992,7.38,50.8,0.03,141
+2,Asia,Jordan,1965,1173606,4.69,7143,8,54.2,0.04,144
+3,Asia,Jordan,1970,1721323,7.96,51087,8,55.9,0.05,132
+4,Asia,Jordan,1975,2065913,3.72,-5941,7.79,57.6,0.05,130
+5,Europe,Ireland,1955,2873415,-0.27,-34071,3.42,44.1,0.1,95
+6,Europe,Ireland,1960,2791397,-0.58,-41448,3.58,45.7,0.09,104
+7,Europe,Ireland,1965,2823650,0.23,-21167,4.01,46.8,0.08,95
+8,Europe,Ireland,1970,2908421,0.59,-11456,3.86,52,0.08,110
+9,Europe,Ireland,1975,3137176,1.53,8867,3.73,54.4,0.08,113
+10,Africa,Ghana,1955,5730594,2.62,12000,18.5,6.44,0.21,66
+11,Africa,Ghana,1960,6635230,2.97,12001,17.8,6.64,0.22,66
+12,Africa,Ghana,1965,7739473,0.13,6000,16.6,6.84,0.23,66
+13,Africa,Ghana,1970,8735495,2.45,-52027,16.4,6.95,0.24,59
+14,Africa,Ghana,1975,9985946,2.71,-28600,16.5,6.9,0.24,57
+15,Oceania,Australia,1955,9165707,2.31,79201,30.2,3.18,0.33,42
+16,Oceania,Australia,1960,10242076,2.25,79911,29.6,2.41,0.34,39
+17,Oceania,Australia,1965,11313195,2.01,76869,28.3,3.27,0.34,42
+18,Oceania,Australia,1970,12793034,2.49,161239,27.4,2.87,0.35,42
+19,Oceania,Australia,1975,13773288,1.49,51906,28.1,2.54,0.34,42
+20,Latin America and the Carribean ,Guyana,1955,482555,3.49,335,6.04,28.5,0.02,151
+21,Latin America and the Carribean ,Guyana,1960,571819,3.45,-261,6.45,29,0.02,149
+22,Latin America and the Carribean ,Guyana,1965,651868,2.66,-2934,6.15,29.2,0.02,151
+23,Latin America and the Carribean ,Guyana,1970,704934,1.58,-8512,5.7,29.4,0.02,150
+24,Latin America and the Carribean ,Guyana,1975,745841,1.13,-10872,4.99,30,0.02,150
